@@ -1,0 +1,21 @@
+[
+    {
+        "image": "assets/bridge.jpg",
+        "author": "sviat",
+        "likes": 1231,
+        "comment": "This is a beautiful bridge in WGC"
+    },
+    {
+        "image": "assets/airport.jpg",
+        "author": "sviat",
+        "likes": 932,
+        "comment": "Me at Istambul airport"
+    },
+    {
+        "image": "assets/food.jpg",
+        "author": "sviat",
+        "likes": 311,
+        "comment": "Waffles with chicken mmm...."
+    }
+]
+
